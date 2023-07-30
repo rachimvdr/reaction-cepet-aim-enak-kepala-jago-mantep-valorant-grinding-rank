@@ -13,4 +13,5 @@ map: rotate <br />
 minimap size: 1.2 <br />
 minimap zoom: 0.9 <br />
 resolution: 1024x768 75hz <br />
+max fps always: 120 (kata gilang kalo dilimit max fps cap bagus jadi stabil terus fps, ga drop teuing,, mantep, ga render terlalu cape useless) <br />
 nice gaming monitor extra large dilo vvip kantor,, 1920x1080 compatibility 75hz without screen flickering with stable 120 fps engine <br />
